@@ -6,7 +6,6 @@ int main(){
     char op;
 
 
-
     printf("Input the first number: ");
     scanf("%d", &a);
 

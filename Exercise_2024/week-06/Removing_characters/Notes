@@ -1,0 +1,8 @@
+1. Explaination of fgets();
+2. How to use the fgets() to reach to the eof;
+3. How to use the fgets() to read a line from a file and store it in a
+
+
+printf("%c %d", letter[i], letter[i]) -> if we use %c it will give us an a char if we
+%d it will give us an a ASCII code 
+
